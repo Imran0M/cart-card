@@ -1,0 +1,23 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.main-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 30px;
+  text-align: center;
+}
+.hi{
+  height: 150px;
+}
+.bt{
+  display: flex;
+  justify-content: flex-end;
+  padding: px;
+  margin: 10px;
+  font-size: 18px;
+}
